@@ -1,0 +1,4 @@
+class Doctor implements Staff
+{
+  
+}
